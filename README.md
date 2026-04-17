@@ -1,4 +1,4 @@
-# Theme Switcher
+# Pi Theme Switcher
 
 [![npm](https://img.shields.io/npm/v/@codewithkenzo/pi-theme-switcher?color=3B82F6&style=flat-square)](https://www.npmjs.com/package/@codewithkenzo/pi-theme-switcher)
 [![Bun](https://img.shields.io/badge/Bun-%23000?style=flat-square&logo=bun&logoColor=white)](https://bun.sh)
@@ -9,11 +9,11 @@
 
 Part of the [Pi Rig suite](https://github.com/codewithkenzo/pi-rig).
 
-Theme Switcher lets the agent switch, preview, and cycle themes during a live session. It persists the active theme across restarts and injects current-theme context into each session.
+Pi Theme Switcher lets the agent or user switch, preview, and cycle themes, during a live session stream. It persists the active theme across restarts and injects current-theme context into each session.
 
 ## Quick demo
 
-[![Theme Switcher demo](./docs/media/theme-switcher-demo.gif)](./docs/media/theme-switcher-demo.mp4)
+[![Pi Theme Switcher demo](./docs/media/theme-switcher-demo.gif)](./docs/media/theme-switcher-demo.mp4)
 
 Shows live preview, theme changes, and session-aware runtime theming in action.
 
