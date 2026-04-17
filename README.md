@@ -1,5 +1,10 @@
 # Theme Switcher
 
+[![npm](https://img.shields.io/npm/v/@codewithkenzo/pi-theme-switcher?color=3B82F6&style=flat-square)](https://www.npmjs.com/package/@codewithkenzo/pi-theme-switcher)
+[![Bun](https://img.shields.io/badge/Bun-%23000?style=flat-square&logo=bun&logoColor=white)](https://bun.sh)
+[![Effect](https://img.shields.io/badge/Effect--TS-black?style=flat-square)](https://effect.website)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+
 `@codewithkenzo/pi-theme-switcher` — Runtime theme selection and preview for the [Pi coding agent](https://github.com/badlogic/pi-mono).
 
 Part of the [Pi Rig suite](https://github.com/codewithkenzo/pi-rig).
@@ -66,31 +71,26 @@ skills/
 
 ## Install
 
-### Direct setup
-
-#### Bun (`bunx`)
-
 ```bash
-bunx @codewithkenzo/pi-theme-switcher@latest
+pi install npm:@codewithkenzo/pi-theme-switcher
 ```
 
-#### npm (`npx`)
+Or install all Pi Rig extensions at once:
 
 ```bash
-npx @codewithkenzo/pi-theme-switcher@latest
+bunx @codewithkenzo/pi-rig@latest
 ```
 
-### From source (Pi Rig suite)
+<details>
+<summary>From source</summary>
 
 ```bash
 bun run setup
-```
-
-or individually:
-
-```bash
+# or individually:
 pi install ./extensions/theme-switcher
 ```
+
+</details>
 
 ## Prerequisites
 
