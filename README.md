@@ -32,7 +32,7 @@ Shows live preview, theme changes, and session-aware runtime theming in action.
 
 ## Palette preview (compact)
 
-`accent · header · success · warning · error` swatches (flat-square, no rounded corners).
+`accent · header · success · warning · error` swatches.
 
 | NF | Palette | Variant | Preview |
 |---|---|---|---|
